@@ -1,7 +1,5 @@
 # Addicore OLED Display - 128x64 Monochrome Example Sketch - by Addicore.com
 
-**********************************************************************************************************************
-
 Example sketch for the Addicore OLED Display - 128x64 0.96in Monochrome found
 at (https://www.addicore.com/OLED-128x64-Monochrome-p/ad304.htm)
 
@@ -22,7 +20,6 @@ Wiring:
      SDA          A4
 ```
 
-**********************************************************************************************************************
-
- Revision History:
-     1-1-2021   Andre A. McKay    Version 1.0   Initial Release
+##Revision History:
+ 
+1-1-2021   Andre A. McKay    Version 1.0   Initial Release
