@@ -20,6 +20,6 @@ Wiring:
      SDA          A4
 ```
 
-##Revision History:
+## Revision History:
  
 1-1-2021   Andre A. McKay    Version 1.0   Initial Release
