@@ -22,4 +22,4 @@ Wiring:
 
 ## Revision History:
  
-1-1-2021   Andre A. McKay    Version 1.0   Initial Release
+1-1-2021 - Andre A. McKay - Version 1.0 - Initial Release
