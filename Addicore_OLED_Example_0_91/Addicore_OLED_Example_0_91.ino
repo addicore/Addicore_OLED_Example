@@ -1,11 +1,11 @@
 //**********************************************************************************************************************
 //
-//                              Addicore OLED Display - 128x32 Monochrome Example Sketch
+//                              Addicore OLED Display - 128x32 0.91" Monochrome Example Sketch
 //                                                 by Addicore.com
 //
 //**********************************************************************************************************************
-//  Example sketch for the Addicore OLED Display - 128x32 Monochrome found
-//  at https://www.addicore.com/OLED-128x64-Monochrome-p/ad304.htm
+//  Example sketch for the Addicore OLED Display - 128x32 0.91" Monochrome found
+//  at https://www.addicore.com/OLED-128x32-0-91in-Monochrome-p/ad556.htm
 //  
 //  Requires the U8G2 Library by Olikraus - https://github.com/olikraus/u8g2
 //
@@ -26,7 +26,7 @@
 //**********************************************************************************************************************
 // Revision History:
 //
-//       1-16-2021   Andre A. McKay    Version 1.0   Initial Release
+//       2-1-2021   Andre A. McKay    Version 1.0   Initial Release
 //       
 //
 // Copyright (C) 2020  Boffintronics, LLC

@@ -1,7 +1,11 @@
-# Addicore OLED Display - 128x64 Monochrome Example Sketch - by Addicore.com
+# Addicore OLED Display Example Sketches - by Addicore.com
 
-Example sketch for the Addicore OLED Display - 128x64 0.96in Monochrome found
-at (https://www.addicore.com/OLED-128x64-Monochrome-p/ad304.htm)
+Example sketches for the following Addicore OLED Displays;
+
+128x64 0.96in Monochrome - (https://www.addicore.com/OLED-128x64-Monochrome-p/ad304.htm)
+128x62 1.3in Monochrome - (https://www.addicore.com/OLED-128x64-1-3in-Monochrome-p/ad555.htm)
+128x32 0.91in Monochrome - (https://www.addicore.com/OLED-128x32-0-91in-Monochrome-p/ad556.htm)
+
 
 Requires the U8G2 Library by Olikraus - (https://github.com/olikraus/u8g2)
 
@@ -22,4 +26,5 @@ Wiring:
 
 ## Revision History:
  
+2-1-2021 - Andre A. McKay - Version 2.0 - Added Support for 1.3in and 0.91in OLED Displays
 1-1-2021 - Andre A. McKay - Version 1.0 - Initial Release
