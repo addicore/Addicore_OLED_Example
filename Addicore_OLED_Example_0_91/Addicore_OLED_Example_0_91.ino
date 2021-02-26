@@ -26,6 +26,7 @@
 //**********************************************************************************************************************
 // Revision History:
 //
+//       2-25-2021  Andre A. McKay    Version 1.1   Corrected size in text output
 //       2-1-2021   Andre A. McKay    Version 1.0   Initial Release
 //       
 //
@@ -86,7 +87,7 @@ void SolidScreen() {
 void DisplayText() {
   u8g2.setFont(u8g2_font_helvR08_tf);
   char *LN_1 = "OLED Display";
-  char *LN_2 = "128 x 32 Pixels, 0.96 inch";
+  char *LN_2 = "128 x 32 Pixels, 0.91 inch";
   char *LN_3 = "www.addicore.com";
   int LN_1_S = ((u8g2.getDisplayWidth() - u8g2.getStrWidth(LN_1))/2);
   int LN_2_S = ((u8g2.getDisplayWidth() - u8g2.getStrWidth(LN_2))/2);

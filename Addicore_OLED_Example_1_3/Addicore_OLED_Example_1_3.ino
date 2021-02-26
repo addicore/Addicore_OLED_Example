@@ -26,6 +26,7 @@
 //**********************************************************************************************************************
 // Revision History:
 //
+//       2-25-2021  Andre A. McKay    Version 1.1   Corrected size in text output
 //       2-1-2021   Andre A. McKay    Version 1.0   Initial Release
 //       
 //
@@ -76,7 +77,7 @@ void MainScreen() {
     u8g2.drawStr( 17, 37, "OLED Display");
   
     u8g2.setFont(u8g2_font_helvR08_tf);
-    u8g2.drawStr( 4, 51, "128 x 64 Pixels, 0.96 inch");
+    u8g2.drawStr( 4, 51, "128 x 64 Pixels, 1.30 inch");
   
     u8g2.setFont(u8g2_font_helvR08_tf);
     u8g2.drawStr( 20, 64, "www.addicore.com");
